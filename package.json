@@ -251,7 +251,9 @@
         "language": "twirl-html",
         "scopeName": "source.twirl",
         "path": "./syntaxes/twirl-html.json",
-				"unbalancedBracketScopes": ["source.twirl"],
+        "unbalancedBracketScopes": [
+          "source.twirl"
+        ],
         "embeddedLanguages": {
           "text.html.basic": "html"
         }
